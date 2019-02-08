@@ -1,2 +1,3 @@
 name: Omkar Damle
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
